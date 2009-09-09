@@ -1,9 +1,9 @@
 --- #YAML:1.0
 name:               MobaSiF-Template
-version:            0.01
+version:            0.02
 abstract:           Very fast Template module written by XS.
 author:
-    - bobpp < bobpp.asroma+cpan@gmail.com >
+    - bobpp < bobpp@cpan.org >
 license:            unknown
 distribution_type:  module
 configure_requires:
